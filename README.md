@@ -14,7 +14,7 @@ I am a 2nd Year Computer Science Student at Jawaharlal Nehru University.
 
 ### 🛠️ Tech Stack
 
-![C](https://img.shields.io/badge/-C-1c3b56?style=flat&logo=c%2B%2B&logoColor=ffffff")
+![C](https://img.shields.io/badge/-C-1c3b56?style=flat&logo=c&logoColor=ffffff")
 ![Python](https://img.shields.io/badge/-Python%203-1c3b56?style=flat&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-1c3b56?style=flat&logo=flask&logoColor=white)
 <br/>
