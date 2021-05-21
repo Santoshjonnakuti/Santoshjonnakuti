@@ -41,6 +41,12 @@ I am a 2nd Year Computer Science Student at Jawaharlal Nehru University.
 
 ---
 
+### Currently Working Repo
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=Santoshjonnakuti&repo=Examination-Portal&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2)](https://github.com/Santoshjonnakuti/Examination-Portal)
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=Santoshjonnakuti&repo=Web-Development&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2)](https://github.com/Santoshjonnakuti/Web-Development)
+
+---
+
 ### Connect
 
 <a href="https://www.linkedin.com/in/santoshjonnakuti/">
