@@ -1,16 +1,57 @@
-### Hi there 👋
+## Hey there, I'm Santosh! <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25">
 
-<!--
-**Santoshjonnakuti/Santoshjonnakuti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+❤️Python 🖤 Programming
 
-Here are some ideas to get you started:
+### 👨🏻‍💻 About Me 
+I am a 2nd Year Computer Science Student at Jawaharlal Nehru University.
+<br/><br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 &nbsp; I’m currently Working on an Online Examination Platform.
+- 🌱 I’m currently learning Full Stack Web development.
+- 👯 &nbsp; I’m looking to collaborate on Web Development Projects.
+- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
+---
+
+### 🛠️ Tech Stack
+
+![C](https://img.shields.io/badge/-C-1c3b56?style=flat&logo=c%2B%2B&logoColor=ffffff")
+![Python](https://img.shields.io/badge/-Python%203-1c3b56?style=flat&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-1c3b56?style=flat&logo=flask&logoColor=white)
+<br/>
+![HTML](https://img.shields.io/badge/-HTML%205-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS%203-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-1572B6?style=flat&logo=javascript&logoColor=eed718)
+<br/>
+![MYSQL](https://img.shields.io/badge/-MYSQL-4479a1?style=flat&logo=MYSQL&logoColor=red)
+![Oracle](https://img.shields.io/badge/-Oracle-4479a1?style=flat&logo=Oracle&logoColor=red)
+<br/>
+![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=Git)
+![Github](https://img.shields.io/badge/-Github-black?style=flat&logo=Github)
+<br/>
+![Dev C++](https://img.shields.io/badge/-Dev%20C%2B%2B-EFDAB9?style=flat&logo=Dev-C%2B%2B)
+![Pycharm](https://img.shields.io/badge/-Pycharm-EFDAB9?style=flat&logo=Pycharm&logoColor=black)
+![Jupyter](https://img.shields.io/badge/-Jupyter%20Notebook-EFDAB9?style=flat&logo=Jupyter)
+![Atom](https://img.shields.io/badge/-Atom-EFDAB9?style=flat&logo=Atom&logoColor=black)
+
+---
+### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/stats.png" width="35px" align="center"/> Some Stats
+![Santosh Jonnakuti Github Stats](https://github-readme-stats.vercel.app/api?username=Santoshjonnakuti&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+![Top-Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Santoshjonnakuti&theme=tokyonight&show_icons=true)
+
+---
+
+### Connect
+
+<a href="https://www.linkedin.com/in/santoshjonnakuti/">
+    <img align="left" alt="Santosh's Linkedin" width="24px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Linkedin.svg" />
+  </a>
+  <a href="https://twitter.com/SantoshJonnaku1">
+    <img align="left" alt="Santosh's Twitter" width="26px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Twitter.svg" />
+  </a>
+  <a href="https://www.instagram.com/santosh_jonnakuti/">
+    <img align="left" alt="Santosh's Instagram" width="24px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Instagram.svg" />
+  </a>
+  <a href="mailto:santoshjonnakuti@gmail.com">
+    <img align="left" alt="Santosh's Gmail" width="26px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Gmail.svg" />
+  </a>
