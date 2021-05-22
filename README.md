@@ -28,10 +28,10 @@ I am a 2nd Year Computer Science Student at Jawaharlal Nehru University.
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=Git)
 ![Github](https://img.shields.io/badge/-Github-black?style=flat&logo=Github)
 <br/>
-![Dev C++](https://img.shields.io/badge/-Dev%20C%2B%2B-EFDAB9?style=flat&logo=Dev-C%2B%2B)
-![Pycharm](https://img.shields.io/badge/-Pycharm-EFDAB9?style=flat&logo=Pycharm&logoColor=black)
-![Jupyter](https://img.shields.io/badge/-Jupyter%20Notebook-EFDAB9?style=flat&logo=Jupyter)
-![Atom](https://img.shields.io/badge/-Atom-EFDAB9?style=flat&logo=Atom&logoColor=black)
+![Dev C++](https://img.shields.io/badge/-Dev%20C%2B%2B-222d30?style=flat&logo=Dev-C%2B%2B)
+![Pycharm](https://img.shields.io/badge/-Pycharm-222d30?style=flat&logo=Pycharm&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter%20Notebook-222d30?style=flat&logo=Jupyter)
+![Atom](https://img.shields.io/badge/-Atom-222d30?style=flat&logo=Atom&logoColor=white)
 
 ---
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/stats.png" width="35px" align="center"/> Some Stats
