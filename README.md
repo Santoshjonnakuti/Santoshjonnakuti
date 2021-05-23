@@ -35,9 +35,9 @@ I am a 2nd Year Computer Science Student at Jawaharlal Nehru University.
 
 ---
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/stats.png" width="35px" align="center"/> Some Stats
-![Santosh Jonnakuti Github Stats](https://github-readme-stats.vercel.app/api?username=Santoshjonnakuti&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+[![Santosh Jonnakuti Github Stats](https://github-readme-stats.vercel.app/api?username=Santoshjonnakuti&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Santoshjonnakuti)
 
-![Top-Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Santoshjonnakuti&theme=tokyonight&show_icons=true)
+[![Top-Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Santoshjonnakuti&theme=tokyonight&show_icons=true)](https://github.com/Santoshjonnakuti)
 
 ---
 
