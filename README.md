@@ -52,12 +52,12 @@ I am a 2nd Year Computer Science Student at Jawaharlal Nehru University.
 <a href="https://www.linkedin.com/in/santoshjonnakuti/">
     <img align="left" alt="Santosh's Linkedin" width="24px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Linkedin.svg" />
   </a>
-  <a href="https://twitter.com/SantoshJonnaku1">
+<a href="mailto:santoshjonnakuti@gmail.com">
+    <img align="left" alt="Santosh's Gmail" width="26px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Gmail.svg" />
+  </a>
+<a href="https://twitter.com/SantoshJonnaku1">
     <img align="left" alt="Santosh's Twitter" width="26px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Twitter.svg" />
   </a>
-  <a href="https://www.instagram.com/santosh_jonnakuti/">
+<a href="https://www.instagram.com/santosh_jonnakuti/">
     <img align="left" alt="Santosh's Instagram" width="24px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Instagram.svg" />
-  </a>
-  <a href="mailto:santoshjonnakuti@gmail.com">
-    <img align="left" alt="Santosh's Gmail" width="26px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Gmail.svg" />
   </a>
