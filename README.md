@@ -47,7 +47,7 @@ I am a 2nd Year Computer Science Student at Jawaharlal Nehru University.
 
 ---
 
-### Connect
+### Connect With me on
 
 <a href="https://www.linkedin.com/in/santoshjonnakuti/">
     <img align="left" alt="Santosh's Linkedin" width="24px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Linkedin.svg" />
