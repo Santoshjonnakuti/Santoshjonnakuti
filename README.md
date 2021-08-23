@@ -43,7 +43,7 @@ I am a 2nd Year Computer Science Student at Jawaharlal Nehru University.
 
 ### Currently Working on 
 [![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=Santoshjonnakuti&repo=Web-Development&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2)](https://github.com/Santoshjonnakuti/Web-Development)
-[![Readme Card]CollabSpace](https://github.com/Santoshjonnakuti/CollabSpace)
+[CollabSpace](https://github.com/Santoshjonnakuti/CollabSpace)
 
 ---
 
