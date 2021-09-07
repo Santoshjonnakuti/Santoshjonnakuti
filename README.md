@@ -21,6 +21,10 @@ I am a 2nd Year Computer Science Student at Jawaharlal Nehru University.
 ![HTML](https://img.shields.io/badge/-HTML%205-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS%203-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-1572B6?style=flat&logo=javascript&logoColor=eed718)
+<br />
+![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&logoColor=eed718)
+![NodeJS](https://img.shields.io/badge/-NodeJs-black?style=flat&logo=node&logoColor=eed718)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb&logoColor=eed718)
 <br/>
 ![MYSQL](https://img.shields.io/badge/-MYSQL-4479a1?style=flat&logo=MYSQL&logoColor=red)
 ![Oracle](https://img.shields.io/badge/-Oracle-4479a1?style=flat&logo=Oracle&logoColor=red)
