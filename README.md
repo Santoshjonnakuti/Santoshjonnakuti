@@ -6,7 +6,7 @@
 I am a 2nd Year Computer Science Student at Jawaharlal Nehru University.
 <br/><br/>
 
-- 🔭 &nbsp; I’m currently Working on an Online Examination Platform.
+- 🔭 &nbsp; I’m currently Working on a Social Media Application.
 - 🌱 &nbsp; I’m currently learning Full Stack Web development.
 - 👯 &nbsp; I’m looking to collaborate on Web Development Projects.
 - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
