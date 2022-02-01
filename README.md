@@ -1,4 +1,4 @@
-## Hey there, I'm Santosh! <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25">
+## Hey there, I'm Santosh!
 
 ❤️Python 🖤 Programming
 
