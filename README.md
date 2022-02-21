@@ -38,10 +38,15 @@ I am a 3rd Year Computer Science Student at Jawaharlal Nehru University.
 ![Atom](https://img.shields.io/badge/-Atom-222d30?style=flat&logo=Atom&logoColor=white)
 
 ---
-### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/stats.png" width="35px" align="center"/> Some Stats
-[![Santosh Jonnakuti Github Stats](https://github-readme-stats.vercel.app/api?username=Santoshjonnakuti&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Santoshjonnakuti)
+### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/stats.png" width="35px" align="center"/> Github Stats
+[![Santosh Jonnakuti Github Stats](https://github-readme-stats.vercel.app/api?username=Santoshjonnakuti&count_private=true&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2)](https://github.com/Santoshjonnakuti)
 
-[![Top-Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Santoshjonnakuti&theme=tokyonight&show_icons=true)](https://github.com/Santoshjonnakuti)
+[![Top-Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Santoshjonnakuti&langs_count=20&layout=compact&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2)](https://github.com/Santoshjonnakuti)
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Santoshjonnakuti&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2)](https://github.com/Santoshjonnakuti)
+
+[![Santosh Jonnakuti's github activity graph](https://activity-graph.herokuapp.com/graph?username=Santoshjonnakuti&theme=react-dark)](https://github.com/Santoshjonnakuti)
 
 ---
 
