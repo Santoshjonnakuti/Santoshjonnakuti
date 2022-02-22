@@ -9,7 +9,7 @@ I am a 3rd Year Computer Science Student at Jawaharlal Nehru University.
 - 🔭 &nbsp; I’m currently Working on Competitive Programming.
 - 🌱 &nbsp; I’m currently learning Data Structures and Algorithms.
 - 👯 &nbsp; I’m looking to collaborate on Web Development Projects.
-- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
+- 🎓 &nbsp; Studying Computer Science, computer programming, DSA and Mathematics.
 ---
 
 ### 🛠️ Tech Stack
