@@ -3,7 +3,7 @@
 ❤️Python 🖤 Programming
 
 ### 👨🏻‍💻 About Me
-I am a 3rd Year Computer Scinience Student at Jawaharlal Nehru University.
+I am a 4th Year Computer Scinience Student at Jawaharlal Nehru University.
 <br/><br/>
 
 - 🔭 &nbsp; I’m currently Working on a Chat Application. 
